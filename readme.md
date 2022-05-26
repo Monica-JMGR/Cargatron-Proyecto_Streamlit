@@ -1,6 +1,6 @@
 # Cargatron
 
-# Monica Garrido
+### Monica Garrido
 
 + App realizada en el bootcamp de Data Science en The Bridge
 
